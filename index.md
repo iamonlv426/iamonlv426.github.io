@@ -4,10 +4,9 @@ title: Bernard Wright
 subtitle: Technologist
 bigimg:
    
-  - "../img/big-imgs/dog.jpeg" : "Ramat HaSharon, Israel (2009)"
-  - "../img/big-imgs/petra.jpeg" : "Petra, Jordan (2011)"
-  - "../img/big-imgs/sinai.jpeg" : "The Sinai Peninsula, Egypt (2009)"
-  - "../img/big-imgs/yomkippur.jpeg" : "Yom Kippur in Tel Aviv, Israel (2009)"
+  - "../img/big-imgs/Sydney Skyline.jpeg" : "Sydney Skyline, Australia (2021)"
+  - "../img/big-imgs/Sydney Harbour Bridge.jpeg" : "Sydney Harbour Bridge, Australia (2021)"
+  - "../img/big-imgs/Sydney Harbour.jpeg" : "Sydney Harbour, Australia (2021)"
 ---
 
 CTO/CIO | Aligning Technology with Business Need | Digital Strategy | Cybersecurity | Relationships | Vendor Partnerships
