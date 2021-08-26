@@ -57,7 +57,7 @@ footer-col: "black"
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
   name: Bernard Wright
-# facebook: ian.paul  # eg. daattali
+  instagram: iwright00  # eg. daattali
 #  diaspora: ianpaul   # eg. daatali
   github: iamonlv426    # eg. daattali
 #  mastodon: ianPaul #eg. daattali
@@ -80,7 +80,7 @@ footer-links-active:
   xing: false
   stackoverflow: false
   snapchat: false
-  instagram: false
+  instagram: true
   youtube: false
   spotify: false
   telephone: false
@@ -91,7 +91,7 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  instagram: true
   github: true
   google: false
   linkedin: false
