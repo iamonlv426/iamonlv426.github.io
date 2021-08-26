@@ -6,7 +6,7 @@ bigimg:
    
   - "../img/big-imgs/Sydney Skyline.jpg" : "Sydney Skyline, Australia (2021)"
   - "../img/big-imgs/Sydney Harbour Bridge.jpg" : "Sydney Harbour Bridge, Australia (2021)"
-  - "../img/big-imgs/Sydney Harbour.jpg" : "Sydney Harbour, Australia (2021)"
+  - "../img/big-imgs/SH.jpg" : "Sydney Harbour, Australia (2021)"
 ---
 
 CTO/CIO | Aligning Technology with Business Need | Digital Strategy | Cybersecurity | Relationships | Vendor Partnerships
