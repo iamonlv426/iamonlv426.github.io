@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/ianPaul.jpg"
+# avatar: "/img/ianPaul.jpg"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
@@ -56,14 +56,14 @@ footer-col: "black"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Ian Paul
-  facebook: ian.paul  # eg. daattali
-  diaspora: ianpaul   # eg. daatali
-  github: ianpaul    # eg. daattali
-  mastodon: ianPaul #eg. daattali
-  twitter: ianpaul   # eg. daattali
-  reddit: metaflops    # eg. daattali
-  twitch: m3tafl0ps    # eg. daattali
+  name: Bernard Wright
+# facebook: ian.paul  # eg. daattali
+#  diaspora: ianpaul   # eg. daatali
+  github: iamonlv426    # eg. daattali
+#  mastodon: ianPaul #eg. daattali
+  twitter: iwright   # eg. daattali
+  reddit: iamonlv426    # eg. daattali
+  twitch: iamonlv426    # eg. daattali
  
 # Select which links to show in the footer
 footer-links-active:
@@ -76,7 +76,7 @@ footer-links-active:
   github: true
   mastodon: false
   reddit: true
-  linkedin: true
+  linkedin: false
   xing: false
   stackoverflow: false
   snapchat: false
@@ -91,21 +91,21 @@ footer-links-active:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   github: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "IanPaul.net"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "iwright.net"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
 #disqus: ""
 
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-3625387-2"
+# google_analytics: "UA-3625387-2"
 
 # Google Tag Manager ID
 #gtm: ""
