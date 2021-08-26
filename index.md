@@ -13,5 +13,5 @@ Aligning Technology with Business Need
 Dungons & Dragons and Call of Cthulhu 
 Retro Computing
 
-If you want to get in touch you can find me on Instagram as [@iwright00](https://instagram.com/iwright00) Twitter as [@iwright](http://twitter.com/iwright). You can also email me at [bernard@iwright.net](mailto:bernard@iwright.net).
+If you want to get in touch you can find me on Instagram as [@iwright00](https://instagram.com/iwright00) or Twitter as [@iwright](http://twitter.com/iwright). You can also email me at [bernard@iwright.net](mailto:bernard@iwright.net).
 
