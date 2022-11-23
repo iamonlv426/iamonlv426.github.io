@@ -76,7 +76,7 @@ footer-links-active:
   github: true
   mastodon: true
   reddit: true
-  linkedin: false
+  linkedin: true
   xing: false
   stackoverflow: false
   snapchat: false
@@ -94,7 +94,7 @@ share-links-active:
   instagram: true
   github: true
   google: false
-  linkedin: false
+  linkedin: true
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
