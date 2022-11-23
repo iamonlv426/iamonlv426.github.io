@@ -23,6 +23,7 @@ description: Bernard Wright's online base of operations.
 
 # List of links in the navigation bar
 navbar-links:
+<a rel="me" href="https://mastodon.au/@iwright">Mastodon</a>
   # Hire Me: "hireme"
   # Vignettes: 
   #  - What are vignettes?: "http://ianpaul.net/what-are-vignettes/"
