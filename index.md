@@ -10,8 +10,3 @@ bigimg:
 ---
 
 Aligning Technology with Business Need 
-
-Dungons & Dragons and Call of Cthulhu 
-
-Retro Computing
-
