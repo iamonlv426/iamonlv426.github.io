@@ -9,4 +9,4 @@ bigimg:
   - "../img/big-imgs/SH.jpg" : "Sydney Harbour, Australia (2021)"
 ---
 
-Aligning Technology with Business Need 
+Aligning Technology with Business Need
