@@ -23,7 +23,6 @@ description: Bernard Wright's online base of operations.
 
 # List of links in the navigation bar
 navbar-links:
-<a rel="me" href="https://mastodon.au/@iwright">Mastodon</a>
   # Hire Me: "hireme"
   # Vignettes: 
   #  - What are vignettes?: "http://ianpaul.net/what-are-vignettes/"
@@ -61,7 +60,7 @@ author:
   instagram: iwright00  # eg. daattali
 #  diaspora: ianpaul   # eg. daatali
   github: iamonlv426    # eg. daattali
-#  mastodon: ianPaul #eg. daattali
+  mastodon: iwright #eg. daattali
   twitter: iwright   # eg. daattali
   reddit: iamonlv426    # eg. daattali
   twitch: iamonlv426    # eg. daattali
@@ -75,7 +74,7 @@ footer-links-active:
   twitter: true
   google-plus: false
   github: true
-  mastodon: false
+  mastodon: true
   reddit: true
   linkedin: false
   xing: false
@@ -100,6 +99,7 @@ share-links-active:
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
   url-pretty: "www.iwright.net"  # eg. "deanattali.com/beautiful-jekyll"
+  <a rel="me" href="https://mastodon.au/@iwright">Mastodon</a>
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
